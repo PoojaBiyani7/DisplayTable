@@ -1,0 +1,27 @@
+.searchBar {
+    padding: 0.5rem;
+    margin-right: 33.5rem;
+    float: right;
+    margin-bottom: 2rem;
+    width: 20%;
+    line-height: 1rem;
+}
+
+.HighlightWord {
+    background-color: red;
+}
+
+.TableHeader {
+    background-color: rgb(177, 135, 214);
+}
+
+.Table {
+    background-color:cyan;
+    line-height: 3rem;
+    border: 0.150rem solid black;
+    width: 70%;
+    text-align: center;
+    margin-left: 12rem;
+}
+
+
